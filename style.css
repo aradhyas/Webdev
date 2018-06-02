@@ -1,0 +1,16 @@
+/*Selector*/
+/*{*/
+	/*Property: value;*/
+/*}*/
+
+body{
+	background-image: url(bi.jpg);
+	background-size: cover;
+}
+h3,p{
+	color: white;
+	text-align: center;
+}
+p{
+	color : #AA6039;
+}
